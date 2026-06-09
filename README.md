@@ -1,16 +1,17 @@
 # Reciclagem de Lixo
 
-Projeto web educativo sobre reciclagem, com paginas estaticas, imagens e interacoes em JavaScript.
+Projeto web educativo sobre reciclagem, descarte consciente e preservacao ambiental.
+
+## Acesse
+
+https://gilvandnel.github.io/Reciclagem-de-Lixo/
 
 ## Tecnologias
 
 - HTML
 - CSS
 - JavaScript
-
-## Como visualizar
-
-Abra o arquivo `Exercicios/public/index.html` em um navegador.
+- GitHub Pages
 
 ## Estrutura
 
@@ -19,7 +20,7 @@ Abra o arquivo `Exercicios/public/index.html` em um navegador.
 - `Exercicios/public/scripts/main.js`: interacoes
 - `Exercicios/public/image/`: imagens usadas no projeto
 
-## Proximos ajustes
+## Possiveis melhorias
 
 - Adicionar descricao do objetivo educacional.
 - Incluir prints da pagina.
